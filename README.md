@@ -26,7 +26,6 @@ Estou constantemente evoluindo minhas habilidades técnicas e construindo projet
 C • Java • JavaScript • HTML • CSS  
 MySQL • PostgreSQL  
 APIs REST • Google Apps Script • Bots para Discord  
-<hr>
 ---
 
 ## 📊 Estatísticas
