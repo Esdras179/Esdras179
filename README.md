@@ -21,6 +21,12 @@ C • Java • JavaScript • HTML • CSS
 MySQL • PostgreSQL  
 APIs REST • Google Apps Script • Bots para Discord  
 
+## 🐍 Minhas Contribuições Animadas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Esdras179/Esdras179/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 📊 Estatísticas
 
 <p align="center">
