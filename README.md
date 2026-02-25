@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://www.google.com/imgres?q=banner%20senai&imgurl=https%3A%2F%2Fwww.senaipr.org.br%2Fcursos%2Fpj%2Fdbimages%2Fbanner-portfolio-senai%5B105527%5D_267825_img.png&imgrefurl=https%3A%2F%2Fwww.senaipr.org.br%2Fcursos%2Fpj%2F&docid=uIqvzsmXWleFhM&tbnid=UPJMWXoFWsM9bM&vet=12ahUKEwi-jcKblfWSAxUnqJUCHWCgCb0QnPAOegQIIhAB..i&w=1920&h=358&hcb=2&ved=2ahUKEwi-jcKblfWSAxUnqJUCHWCgCb0QnPAOegQIIhAB" />
+  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" />
 </p>
 
 ---
