@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" width="200"/>
+  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" width="350"/>
 </p>
 
 ---
