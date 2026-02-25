@@ -1,6 +1,6 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" />
+  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" width="200"/>
 </p>
 
 ---
@@ -26,17 +26,18 @@ Estou constantemente evoluindo minhas habilidades técnicas e construindo projet
 C • Java • JavaScript • HTML • CSS  
 MySQL • PostgreSQL  
 APIs REST • Google Apps Script • Bots para Discord  
+
 ---
 
 ## 📊 Estatísticas
 
-<p align="center" lang="pt-br">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Esdras179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras179&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Esdras179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras179&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Esdras179&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Esdras179&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
 ---
