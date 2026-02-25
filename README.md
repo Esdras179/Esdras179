@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=ARROWZK56;Junior+Software+Developer;Estudante+de+Programação+-+SENAI;Backend+em+Formação" />
+</p>
 
-<!--
-**Esdras179/Esdras179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👨‍💻 ARROWZK56
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Desenvolvimento de Sistemas - SENAI  
+💻 Programador Júnior  
+🚀 Foco em Backend e Banco de Dados  
+
+---
+
+## 🧠 Sobre Mim
+
+Sou desenvolvedor em formação no SENAI, com foco em lógica de programação, desenvolvimento backend e modelagem de banco de dados.
+
+Estou constantemente evoluindo minhas habilidades técnicas e construindo projetos práticos para consolidar minha carreira na área de tecnologia.
+
+---
+
+## 🛠️ Tecnologias
+
+C • Java • JavaScript • HTML • CSS  
+MySQL • PostgreSQL  
+APIs REST • Google Apps Script • Bots para Discord  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔗 Contato
+
+[![Discord](https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white)](SEU_LINK_DISCORD)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+
+---
+
+📚 Em constante aprendizado  
+🚀 Evoluindo um commit por vez
