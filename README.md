@@ -37,7 +37,7 @@ APIs REST • Google Apps Script • Bots para Discord
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Esdras179&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
