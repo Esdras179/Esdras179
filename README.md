@@ -45,7 +45,7 @@ APIs REST • Google Apps Script • Bots para Discord
 ## 🔗 Contato
 
 [![Discord](https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white)](SEU_LINK_DISCORD)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esdras179)
 
 ---
 
