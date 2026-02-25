@@ -1,9 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/SENAI_logo.svg/512px-SENAI_logo.svg.png" width="200"/>
+  <img src="https://themata.com.br/wp-content/uploads/2022/07/senai.png" w/>
 </p>
-
----
 
 # 👨‍💻 Esdras Santos
 
@@ -11,23 +9,17 @@
 💻 Programador Júnior  
 🚀 Foco em Backend e Banco de Dados  
 
----
-
 ## 🧠 Sobre Mim
 
 Sou desenvolvedor em formação no SENAI, com foco em lógica de programação, desenvolvimento backend e modelagem de banco de dados.
 
 Estou constantemente evoluindo minhas habilidades técnicas e construindo projetos práticos para consolidar minha carreira na área de tecnologia.
 
----
-
 ## 🛠️ Tecnologias
 
 C • Java • JavaScript • HTML • CSS  
 MySQL • PostgreSQL  
 APIs REST • Google Apps Script • Bots para Discord  
-
----
 
 ## 📊 Estatísticas
 
@@ -40,14 +32,10 @@ APIs REST • Google Apps Script • Bots para Discord
   <img src="https://streak-stats.demolab.com?user=Esdras179&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
----
-
 ## 🔗 Contato
 
 [![Discord](https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5VHYg8pT4Y)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esdras179)
-
----
 
 📚 Em constante aprendizado  
 🚀 Evoluindo um commit por vez
