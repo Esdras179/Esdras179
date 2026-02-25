@@ -24,11 +24,6 @@ APIs REST • Google Apps Script • Bots para Discord
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Esdras179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras179&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Esdras179&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
