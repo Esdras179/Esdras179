@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://imgur.com/a/Qmw3KMz" w/>
+  <img src="https://i.imgur.com/HzSrRcD.png" w/>
 </p>
 
 # 👨‍💻 Esdras Santos
