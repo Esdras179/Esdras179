@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src=""C:\Users\PC\Desktop\Meus arquivos - Pessoais\SENAI\Portifolio - Esdras V2\IMG\Banner para mercado shops mês dos pais gamer eletronicos neon lilás .png"" w/>
+  <img src="C:\Users\PC\Desktop\Meus arquivos - Pessoais\SENAI\Portifolio - Esdras V2\IMG\Banner para mercado shops mês dos pais gamer eletronicos neon lilás .png" w/>
 </p>
 
 # 👨‍💻 Esdras Santos
