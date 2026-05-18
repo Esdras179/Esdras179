@@ -41,7 +41,7 @@ APIs REST • Google Apps Script • Bots para Discord
 
 [![GitHub](https://img.shields.io/badge/GitHub-Meu%20Perfil-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esdras179)
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Site%20Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esdras179.github.io/Esdras_Santos/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Site%20Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esdras179.github.io/Portifolio/)
 
 📚 Em constante aprendizado  
 🚀 Evoluindo um commit por vez
