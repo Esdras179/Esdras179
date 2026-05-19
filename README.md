@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://i.imgur.com/HzSrRcD.png" width="100%" />
+  <img src="https://imgur.com/a/oh7NzHJ" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou Esdras Santos</h1>
