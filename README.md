@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou Esdras Santos</h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend em formação <br>
+  💻 Desenvolvedor FullStack em formação <br>
   🎓 Estudante de Desenvolvimento de Sistemas - SENAI <br>
   🚀 Apaixonado por tecnologia, automação e banco de dados
 </p>
@@ -15,11 +15,10 @@ Sou estudante de Desenvolvimento de Sistemas pelo SENAI, focado em construir sol
 
 Atualmente estudo e desenvolvo projetos relacionados a:
 
-* 🔹 Desenvolvimento Backend
+* 🔹 Desenvolvimento Backend e Frontend
 * 🔹 APIs REST
 * 🔹 Banco de Dados
 * 🔹 Automação com Google Apps Script
-* 🔹 Bots para Discord
 * 🔹 Sistemas Web
 
 Busco transformar conhecimento em projetos reais, sempre aprimorando lógica, estrutura e boas práticas de programação.
