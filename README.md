@@ -67,15 +67,6 @@ Busco transformar conhecimento em projetos reais, sempre aprimorando lógica, es
 </p>
 
 ---
-
-## 🏆 Destaques
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esdras179&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <p align="center">
