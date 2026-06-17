@@ -81,7 +81,8 @@ Busco transformar conhecimento em projetos reais, sempre aprimorando lógica, es
 <p align="center">
 
 <a href="https://github.com/Esdras179"></a>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png"/>
+  
 <a href="https://discord.gg/5VHYg8pT4Y">
   <img src="https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
