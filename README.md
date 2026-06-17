@@ -80,9 +80,7 @@ Busco transformar conhecimento em projetos reais, sempre aprimorando lógica, es
 
 <p align="center">
 
-<a href="https://github.com/Esdras179">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/Esdras179"></a>
 
 <a href="https://discord.gg/5VHYg8pT4Y">
   <img src="https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
